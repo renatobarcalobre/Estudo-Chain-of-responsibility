@@ -1,3 +1,7 @@
+Conceito de Chain of Responsability
+ - É um padrao de design comportamental que permite apssar solictacoes por uma cadeia de manipuladores, ao receber uma solicitacao, cada gerenciador decide processa-la ou passa-la para o proximo gerenciador da cadeia.
+
+
 
 versao node.js - 16.13.1
 Para executar os comandos do projeto deve-se usar os atalhos contendo em package.json
