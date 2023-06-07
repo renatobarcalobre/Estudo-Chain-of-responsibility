@@ -1,0 +1,13 @@
+{
+  "name": "chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"tsc", 
+    "execute": "node ./build/Main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato B.",
+  "license": "ISC"
+}
